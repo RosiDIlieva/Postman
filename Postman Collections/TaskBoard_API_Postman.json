@@ -190,18 +190,6 @@
 				"url": "https://taskboardjs.rosidilieva.repl.co/api/tasks/{{taskId}}"
 			},
 			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "ca2ad404-9d74-4f4c-8e68-16a5278a3b86",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	],
 	"auth": {
